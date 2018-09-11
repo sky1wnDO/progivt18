@@ -1,3 +1,2 @@
-
-"# progivt18" 
-version 2.0
+function D(a,b,c) { return b*b-4*a*c;
+                  }
